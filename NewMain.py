@@ -3,7 +3,7 @@ from telegram import ReplyKeyboardMarkup
 from telegram.update import Update
 from telegram.ext.callbackcontext import CallbackContext
 
-updater = Updater("6227352960:AAH_eSS4RwOtukoDwqCPtFSJZJ1pZMu5BEM", use_context=True)
+updater = Updater("BotApiKey", use_context=True)
 USER_DATA = {}
 
 # States for ConversationHandler
