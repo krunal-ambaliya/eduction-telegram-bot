@@ -57,19 +57,8 @@ EduSmart is a custom-built Telegram bot that helps students quickly access their
    - `Syllabus`: Choose subject → receive syllabus.
 5. **Go Back** or `/cancel` anytime to restart.
 
-### Example Interaction
+---
+## 📬 Contact
+For more Telegram bot projects or help with bot development, feel free to contact me:
 
-```plaintext
-/start
-→ Please choose your department:
-    [Mechanical] [IT] [Civil]
-→ IT
-
-→ Please select your semester:
-    [sem 1] [sem 2] ... [sem 6]
-
-→ Please select the category:
-    [Timetable] [Textbook] [Syllabus]
-
-→ Please select your subject:
-    [CSDF] [CDCT] ...
+**Telegram**: [@krues](https://t.me/KRUES)
