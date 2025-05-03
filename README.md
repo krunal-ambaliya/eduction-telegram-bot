@@ -58,7 +58,10 @@ EduSmart is a custom-built Telegram bot that helps students quickly access their
 5. **Go Back** or `/cancel` anytime to restart.
 
 ---
-## 📬 Contact
-For more Telegram bot projects or help with bot development, feel free to contact me:
+## 👤 Author & Contact
 
-**Telegram**: [@krues](https://t.me/KRUES)
+Made with ❤️ by **Krunal**
+
+📬 **Telegram**: [@krues](https://t.me/krues)
+
+For help, feedback, or more Telegram bot projects, feel free to reach out!
